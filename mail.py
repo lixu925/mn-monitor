@@ -7,7 +7,7 @@ from email.mime.text import MIMEText
    
 smtpHost = 'smtp.163.com' 
 sender = 'jiuling_blockchain@163.com' 
-password = "jiuLing0801"
+password = "xxxxxxxxxxxxxx"
 receiver = '280507775@qq.com'
    
 content = '您的状态为EXPIRED，请注意查看状态'
